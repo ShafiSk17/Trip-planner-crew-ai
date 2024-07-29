@@ -1,0 +1,8 @@
+streamlit
+openai
+crewai
+langchain
+langchain_community
+poetry
+scoop
+duckduckgosearch
