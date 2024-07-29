@@ -6,3 +6,4 @@ langchain_community
 poetry
 scoop
 ddgr
+sqlite3 >= 3.35.0
