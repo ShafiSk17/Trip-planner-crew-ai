@@ -5,4 +5,4 @@ langchain
 langchain_community
 poetry
 scoop
-duckduckgosearch
+duckduckgo
