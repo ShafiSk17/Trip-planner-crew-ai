@@ -5,6 +5,4 @@ langchain
 langchain_community
 poetry
 scoop
-chromadb
-embededchain
-vectordb
+ddgr
