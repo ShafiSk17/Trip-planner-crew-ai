@@ -6,6 +6,5 @@ langchain_community
 poetry
 scoop
 chromadb
-sqlite3
 embededchain
 vectordb
