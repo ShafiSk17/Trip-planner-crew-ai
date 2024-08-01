@@ -3,7 +3,7 @@ openai
 crewai
 langchain
 langchain_community
-poetry
-scoop
+#poetry
+#scoop
 #ddgr
 #sqlite3 >= 3.35.0
